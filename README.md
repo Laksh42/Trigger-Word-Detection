@@ -1,1 +1,2 @@
 # Trigger-Word-Detection
+Trigger word detection is the technology that allows devices like Amazon Alexa, Google Home, Apple Siri, and Baidu DuerOS to wake up upon hearing a certain word. Constructed a synthesized speech dataset and implemented an Attention based Sequence Network to build a trigger word / keyword detection model with an accuracy upto 92.39% using GRU (Gated Recurrent Units) Network.
